@@ -1,0 +1,1 @@
+The `templates` directory is for organizing templates for use with the vault.

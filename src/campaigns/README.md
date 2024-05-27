@@ -1,0 +1,1 @@
+The `campaigns` directory is for organizing the TTRPG campaigns within the world or setting.

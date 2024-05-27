@@ -1,0 +1,1 @@
+The `locations` directory is for organizing the individual locations within the world or setting.

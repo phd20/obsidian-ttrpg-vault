@@ -1,0 +1,1 @@
+The `gm-tools` directory is for organizing the tools needed to run TTRPGs in the world or setting.

@@ -1,0 +1,1 @@
+The `characters` directory is for organizing the characters of the world or setting.

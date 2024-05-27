@@ -1,0 +1,1 @@
+The `items` directory is for organizing physical artifacts within the world or setting.
